@@ -1,7 +1,7 @@
 ## Hello :)
 
 I'm an hobby programmer and aviation enthusiast ✈️ from Hong Kong 🇭🇰.
-Building apps to automate tasks are always fun and games, until I realise I lose several strands of hair.
+Building apps to automate tasks are always fun and games until strands of my hair go missing after every single programming session.
 
 > I think I can finish this in one day. ™
 
