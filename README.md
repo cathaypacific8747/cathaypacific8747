@@ -6,9 +6,9 @@ Building apps to automate tasks are always fun and games, until I realise I lose
 > I think I can finish this in one day. ™
 
 ### Languages
-- Familiar with - Python 🐍, HTML/CSS/JavaScript 
-- Learning - React, TypeScript, Google Apps Script
-- Rusty - C, Processing, Arduino, Small Basic
+- Familiar with - Python 🐍, HTML/CSS/JavaScript, Google Apps Script, SQL
+- Learning - React, TypeScript
+- Rusty - C, Cython, Processing, Arduino, Small Basic
 
 ### Personal projects
 it *should* work 😁
