@@ -31,4 +31,4 @@ The 747 is one of the most iconic aircraft to have ever flown - it pioneered mod
 The elegance of the flyby was truly astonishing and the scene has stuck with me ever since. This was the reason why I adopted its flight number CX8747 as my username.
 
 ![image of CX8747](image.jpg)
-⬆️ a photo of her, taken by me at the [West Kowloon Cultural District](https://www.google.com/maps/place/22.299821642298747,114.15444380148747)
+⬆️ a photo of her, taken by me at the [West Kowloon Cultural District](https://goo.gl/maps/js2dnuuS4h6m78Fc6)
