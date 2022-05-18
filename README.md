@@ -1,14 +1,12 @@
 ## Hello :)
 
-I'm an hobby programmer and aviation enthusiast ✈️ from Hong Kong 🇭🇰.
-Building apps to automate tasks are always fun and games until strands of my hair go missing after every single programming session.
-
+Hobby programmer and aviation enthusiast from Hong Kong :D
 > I think I can finish this in one day. ™
 
-### Languages
-- Familiar with - Python 🐍, HTML/CSS/JavaScript, Google Apps Script, SQL
-- Learning - React, TypeScript
-- Rusty - C, Cython, Processing, Arduino, Small Basic
+### Technologies
+- Familiar with - Python/flask/matplotlib/pandas, HTML/CSS/JavaScript/React/Google Apps Script, postgres/MySQL
+- Learning - TypeScript/MongoDB/Express, Rust, Cython
+- Rusty - C, Processing, Arduino, Small Basic
 
 ### Personal projects
 it *should* work 😁
@@ -20,7 +18,6 @@ it *should* work 😁
 * **AM4 Bot** - [🌐](https://discord.gg/4tVQHtf) Discord bot with calculators and utilities to achieve maximum profit in AM4.
 * **AM4 Tools** - [🌐](https://am4tools.com) Website and API with calculators and utilities to achieve maximum profit in AM4.
 * **AM4 Stopover Finder** [🌐](https://cathaypacific8747.github.io/am4stopoverfinder/hello.html) [💻](https://github.com/cathaypacific8747/am4stopoverfinder) - Early Website for finding stopovers of routes in AM4.
-* **TTS** [💻](https://github.com/cathaypacific8747/tts) Chinese and English TTS for Virtual Audio Cable.
 
 ### Why `cathaypacific8747`?
 
